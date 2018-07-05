@@ -4,4 +4,4 @@
  2. Forecast worked just for 6 month
 
 ## RNN LSTM
-  1. R_squared metric : 0.93
+  1. R_squared metric : 0.94
